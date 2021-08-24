@@ -16,4 +16,4 @@ The following prior art is a use-case diagram that represents how capital would 
 
 ![image](https://user-images.githubusercontent.com/75082835/130609168-3ac50212-4175-4e3e-82e9-6d7dfbac7fd0.png)
 
-The frailties of the above model are that it requires a quarters worth of streaming income deposited as collateral by the artist or their management in order to collatoralize the bond, determine the bond value and onboard the artist into DeFi. If rather than requiring this deposit from the artist, fungble synthetics had already been collateralized the artist would likely feel more motivated to participate in transferring their real-world assets into DeFi.
+The frailties of the above model are that it requires a quarters worth of streaming income deposited as stablecoin collateral by the artist or their management in order to collatoralize the bond, determine the bond value and onboard the artist into DeFi. If rather than requiring this deposit from the artist, fungble synthetics had already been collateralized the artist would likely feel more motivated to participate in transferring their real-world assets into DeFi.
