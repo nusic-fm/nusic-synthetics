@@ -12,7 +12,7 @@ By offering anyone the opportunity to particiapte in the collatoralization and t
 
 The goal of this project is to onboard real-world music assets into DeFi, motivating primarliy artists and secondarily labels with a sufficient TVL to enable real-world asset swaps from the fungible synethtics to fractionalized non-fungible bonds.
 
-The following prior art is a use-case diagram that represents how capital would flow to-and-from an artist, thier label, a DSP and a DeFi user via a non-fungible bond:
+The following prior art is a use-case diagram that represents how capital would flow to-and-from an artist, thier label or distributor, a DSP and a DeFi user via a non-fungible bond:
 
 ![image](https://user-images.githubusercontent.com/75082835/130609168-3ac50212-4175-4e3e-82e9-6d7dfbac7fd0.png)
 
