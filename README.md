@@ -24,4 +24,4 @@ The frailties of the above model are:
 
 ## The Synthetic Solution
 
-
+Though the above problems invite real-world solutions, these rely on third-parties that include artists, small & medium sized enterprises, corporations and governments; relying on these third-party actors to recognize the opportunity from DeFi, how to interface with or regulate it is antithetical to a bootstrap model. Rather than waiting for third-parties to understand or investing resources into education, there is enough TVL in DeFi to validate the appetite for music assets.
