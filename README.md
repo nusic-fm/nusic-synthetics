@@ -16,4 +16,7 @@ The following prior art is a use-case diagram that represents how capital would 
 
 ![image](https://user-images.githubusercontent.com/75082835/130720928-890695d9-1058-4d23-bdd5-bf572a4f2290.png)
 
-The frailties of the above model are that it requires a quarters worth of streaming income deposited as stablecoin collateral by the artist or their management in order to collatoralize the bond, determine the bond value and onboard the artist into DeFi. If rather than requiring this deposit from the artist, fungble synthetics had already been collateralized the artist would likely feel more motivated to participate in transferring their real-world assets into DeFi.
+The frailties of the above model are:
+
+1. Assignment at supplier level will require a real-world legally binding agreement, auditing capacity, fiat onramp and may be vulnerable to emerging regulations or compliance issues that vary between different territories. It requires the concordance of the supplier, that may be a corporation or subsidiary which may follow company specific accountancy and operational practices, re-assigning an artist payment to an NFT may require sign-off at an executive level, which will take time.
+2. Requires a quarters worth of streaming income deposited as stablecoin collateral by the artist or their management in order to collatoralize the bond, determine the bond value and onboard the artist into DeFi. If rather than requiring this deposit from the artist, fungble synthetics had already been collateralized the artist would likely feel more motivated to participate in transferring their real-world assets into DeFi.
