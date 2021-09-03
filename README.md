@@ -25,3 +25,7 @@ The frailties of the above model are:
 ## The Synthetic Solution
 
 Though the above problems invite real-world solutions, these rely on third-parties that include artists, small & medium sized enterprises, corporations and governments; relying on these third-party actors to recognize the opportunity from DeFi, how to interface with or regulate it is antithetical to a bootstrap model. Rather than waiting for third-parties to understand or investing resources into education, there is enough TVL in DeFi to validate the appetite for music assets.
+
+### nuAssets ##
+
+Drawing from the work of the Mirror Protocol which introduced synthetic stocks to DeFi, **nuAssets** function similarly to mAssets, but the valuation is drawn from a music oracle feed which tracks the popularity of a specific artist. The Cross-Platform Performance (CPP) is an attempt by music data aggragator Chartmetric to provide a single metric that measures an artist's performance accross music-streaming services, social media platforms and other digitial entities; including Spotify, Pandora, TikTok, as well as TV and radio broadcasts.
